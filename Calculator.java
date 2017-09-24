@@ -1,5 +1,5 @@
-// Exercício 14.10: Calculator.java
-// Cria a seguinte GUI (Calculadora). Você não precisa fornecer funcionalidades.
+// ExercÃ­cio 14.10: Calculator.java
+// Crie a seguinte GUI (Calculadora). VocÃª nÃ£o precisa fornecer funcionalidades.
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.GridLayout;
