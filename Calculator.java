@@ -16,9 +16,9 @@ public class Calculator extends JFrame {
 	private JTextField textField1; // cria barra em branco
 	private JButton buttons[] = new JButton[16];
 	private String buttons1[] = {"7", "8", "9", "/",
-								 "4", "5", "6", "*",
-								 "1", "2", "3", "-",
-								 "0", ".", "=", "+"};
+				     "4", "5", "6", "*",
+				     "1", "2", "3", "-",
+				     "0", ".", "=", "+"};
 	private JPanel buttonsPanel;
 	
 	private BorderLayout layout;
