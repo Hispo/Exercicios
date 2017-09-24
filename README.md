@@ -1,2 +1,2 @@
-# Exercicios
-Exercícios do livro Java Como Programar, 8° Edição, 
+# Exercícios
+Exercícios do livro Java Como Programar, 8° Edição.
